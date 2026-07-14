@@ -20,6 +20,7 @@ nuke.pluginAddPath("./")
 ## Usage
 
 1. Connect your renders.
-2. Set Start Frame.
-3. Choose Transition Length.
-4. Play the timeline.
+2. Set the **Inputs** to match the number of connected inputs.
+3. Set Start Frame.
+4. Choose Transition Length.
+5. Play the timeline.
